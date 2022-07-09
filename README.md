@@ -1,2 +1,1 @@
-# MachineLearning
-Classification &amp; Clustering Algorithms
+You need to install the database from kaggle,(link to the website exists inside the .pdf file)in order to run the files.After that you just need to run the main function which is written in FaceRecognisionClustering.py file.
