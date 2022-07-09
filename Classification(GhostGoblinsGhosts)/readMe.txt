@@ -1,1 +1,1 @@
-
+In this example, we try to apply some famous classification algorithms in order to classify 3 types of monsters. The idea was from a competition that was held in kaggle.com ,called Ghosts Globins Ghouls. The idea is simple, 3 types of mosters with 5 characteristics each. Applying Knn , MLP , SVM & Naive Bayes algorithms which one has the best accuracy.
